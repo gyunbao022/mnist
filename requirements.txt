@@ -4,3 +4,4 @@ streamlit-drawable-canvas
 numpy
 pandas
 matplotlib
+scikit-image
