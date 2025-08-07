@@ -1,8 +1,9 @@
-tensorflow
 streamlit
 streamlit-drawable-canvas
+tensorflow
 numpy
-pandas
 matplotlib
+pillow
+scipy
 scikit-image
 opencv-python-headless
