@@ -1,5 +1,5 @@
+tensorflow
 streamlit
+streamlit-drawable-canvas
 numpy
 pandas
-scikit-learn
-tensorflow
