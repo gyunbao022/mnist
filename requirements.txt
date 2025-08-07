@@ -5,4 +5,4 @@ numpy
 pandas
 matplotlib
 scikit-image
-pencv-python
+opencv-python
