@@ -21,7 +21,7 @@ def get_latest_model():
     return os.path.join(MODEL_DIR, models[0])
 
 model_path = get_latest_model()
-model = tf.keras.models.load_model(model_path) if model_path else None
+model = tf.keras.models.load_model(model_path, compile=False)
 
 # Title
 st.title("CNN 숫자 예측기 (MNIST) - 개선 버전")
